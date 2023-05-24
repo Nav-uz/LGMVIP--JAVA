@@ -1,2 +1,2 @@
 # LGMVIP--JAVA
-I've Created a Currency Converter by using Java, java swing and Netbeans (IDE) 
+I've Created Some projects via using Java, Java swing, AWT on IDE- NetBeans.
