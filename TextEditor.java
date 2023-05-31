@@ -1,4 +1,5 @@
-//Designed and developed by Vivek Nimbolkar
+// @author Navneet Sharma 
+
 package com.company;
 
 import javax.swing.JFrame;
